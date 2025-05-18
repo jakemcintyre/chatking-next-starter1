@@ -1,1 +1,9 @@
 index.tsx
+export default function Home() {
+  return (
+    <main>
+      <h1>Welcome to ChatKing</h1>
+      <p>Your business communication hub is under construction.</p>
+    </main>
+  );
+}
